@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋</h2>
-<p align="left">I'm Navindu Ashen | An undergraduate in Computer Science @NSBM Green University | My primary focus areas are mobile application development using Flutter and full-stack web development with .NET and ASP.NET. As a self-taught developer, I'm passionate about continuously expanding my skill set and contributing to innovative projects</p>
+<p align="left">I'm Navindu Ashen | An undergraduate in Computer Science @NSBM Green University | My primary focus areas are mobile application development using Flutter and Firebase. As a self-taught developer, I'm passionate about continuously expanding my skill set and contributing to innovative projects</p>
 
 
 ## Familiar with:
